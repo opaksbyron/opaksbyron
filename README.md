@@ -41,8 +41,6 @@ A local dashboard for `iblai/claw-router`. The router reports what you spent; th
 the question it doesn't — **was that request routed correctly?** Flags decisions that landed
 near a tier boundary or that the router itself marked ambiguous.
 
-<a href="https://github.com/opaksbyron/router-insight"><img src="https://raw.githubusercontent.com/opaksbyron/router-insight/main/docs/screenshot.png" alt="Router Insight" /></a>
-
 `Next.js` `React 19` `TypeScript` `Tailwind` `Radix`
 
 </td>
@@ -62,6 +60,12 @@ excluded by default; CORS is loopback-only.
 </td>
 </tr>
 </table>
+
+<a href="https://github.com/opaksbyron/router-insight">
+  <img src="https://raw.githubusercontent.com/opaksbyron/router-insight/main/docs/screenshot.png" alt="Router Insight dashboard" width="100%" />
+</a>
+
+<sub>Router Insight — the highlighted rows are decisions the router was least confident about.</sub>
 
 ---
 
