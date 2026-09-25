@@ -4,10 +4,8 @@
 
 **Frontend engineer — React · TypeScript**
 
-Self-taught. I learn by shipping into large production codebases I didn't write.
-
 <p>
-  <a href="https://www.linkedin.com/in/opaks-byron-45649a331/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/opakrwoth-byron-peter-45649a331/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/opaksbyron"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
