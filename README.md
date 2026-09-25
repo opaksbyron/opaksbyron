@@ -109,5 +109,5 @@ Pull requests I've **opened** in production codebases:
 
 ### Contact
 
-- **LinkedIn** — [opaks-byron](https://www.linkedin.com/in/opaks-byron-45649a331/)
+- **LinkedIn** — [opakrwoth-byron-peter](https://www.linkedin.com/in/opakrwoth-byron-peter-45649a331/)
 - **GitHub** — [@opaksbyron](https://github.com/opaksbyron)
